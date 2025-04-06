@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\bin\Debug\net8.0\03-CSarpGelenYenilikler.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\bin\Debug\net8.0\03-CSarpGelenYenilikler.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\bin\Debug\net8.0\03-CSarpGelenYenilikler.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\bin\Debug\net8.0\03-CSarpGelenYenilikler.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\bin\Debug\net8.0\03-CSarpGelenYenilikler.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\refint\03-CSarpGelenYenilikler.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\03-CSarpGelenYenilikler.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\03-Linq\obj\Debug\net8.0\ref\03-CSarpGelenYenilikler.dll

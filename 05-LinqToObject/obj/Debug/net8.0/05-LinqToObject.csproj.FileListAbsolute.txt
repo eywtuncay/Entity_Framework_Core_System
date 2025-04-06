@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\bin\Debug\net8.0\05-LinqToObject.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\bin\Debug\net8.0\05-LinqToObject.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\bin\Debug\net8.0\05-LinqToObject.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\bin\Debug\net8.0\05-LinqToObject.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\bin\Debug\net8.0\05-LinqToObject.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\refint\05-LinqToObject.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\05-LinqToObject.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\05-LinqToObject\obj\Debug\net8.0\ref\05-LinqToObject.dll

@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\bin\Debug\net8.0\04-ExtensionMethods.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\bin\Debug\net8.0\04-ExtensionMethods.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\bin\Debug\net8.0\04-ExtensionMethods.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\bin\Debug\net8.0\04-ExtensionMethods.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\bin\Debug\net8.0\04-ExtensionMethods.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\refint\04-ExtensionMethods.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\04-ExtensionMethods.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\EF\04-ExtensionMethods\obj\Debug\net8.0\ref\04-ExtensionMethods.dll
